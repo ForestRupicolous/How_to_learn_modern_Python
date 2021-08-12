@@ -56,26 +56,14 @@ See the environments that were created.
 To activate the environment
 
 ```
-    $ source activate yourenvname
-    ex: $ source activate test_01_proj
-```
-
-or
-
-```
+    $ conda activate yourenvname
     $ conda activate test_01_proj
 ```
 
 To desactivate an active environment
 
 ```
-    $ source activate yourenvname
-    ex: $ source desactivate
-```
-
-or
-
-```
+    $ conda activate yourenvname
     $ conda deactivate
 ```
 
